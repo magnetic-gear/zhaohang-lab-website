@@ -3,7 +3,7 @@
 
 # magnetic-gear's Website
 
-An engaging 1-3 sentence description of your lab.
+Our lab focuses on the advanced motor drive technology, especially combing AI into electric machine design, and control.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Intelligent design of electric machines, using surrogate modeling method, we can accelerate the deisng speed, and efficiency.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Intelligent control of electric machine, we solve the real-time issue and interpretability issue. Finally, we realize the real-time deployment of the intelligent control algorithm.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Application of electric machine into robots and autonomous systems.
 
 {%
   include button.html
