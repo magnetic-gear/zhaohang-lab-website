@@ -1,7 +1,7 @@
 ---
 ---
 
-# magnetic-gear's Website
+# Advanced Motor Drive Technology (AMDT) Website
 
 Our lab focuses on the advanced motor drive technology, especially combing AI into electric machine design, and control.
 
