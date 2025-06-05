@@ -1,174 +1,200 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3390/en17163864
+  title: Optimal Design of an Interior Permanent Magnet Synchronous Motor for Electric
+    Vehicle Applications Using a Machine Learning-Based Surrogate Model
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Song Guo
+  - Xiangdong Su
+  - Hang Zhao
+  publisher: Energies
+  date: '2024-08-06'
+  link: https://doi.org/g9nbg8
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.3390/en17092207
+  title: Design of an Axial-Type Magnetic Gear with Auxiliary Flux-Enhancing Structure
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Fang Li
+  - Hang Zhao
+  - Xiangdong Su
+  publisher: Energies
+  date: '2024-05-03'
+  link: https://doi.org/g9nbg9
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/en17051114
+  title: Subdomain Analytical Modeling of a Double-Stator Spoke-Type Permanent Magnet
+    Vernier Machine
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Xiangdong Su
+  - Hang Zhao
+  - Zhijun Ou
+  - Jincheng Yu
+  - Chunhua Liu
+  publisher: Energies
+  date: '2024-02-26'
+  link: https://doi.org/g9nbhb
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/en14123639
+  title: Design and Analysis of a Novel Axial-Radial Flux Permanent Magnet Machine
+    with Halbach-Array Permanent Magnets
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Rundong Huang
+  - Chunhua Liu
+  - Zaixin Song
+  - Hang Zhao
+  publisher: Energies
+  date: '2021-06-18'
+  link: https://doi.org/g9nbhc
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/TIE.2021.3114736
+  title: Analysis and Design Considerations of a Dual-Rotor Multiple-Winding Machine
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Hang Zhao
+  - Chunhua Liu
+  - Zaixin Song
+  - Senyi Liu
+  publisher: IEEE Transactions on Industrial Electronics
+  date: '2022-09-01'
+  link: https://doi.org/gnrhkj
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.3390/en12101888
+  title: Analytical Modeling and Comparison of Two Consequent-Pole Magnetic-Geared
+    Machines for Hybrid Electric Vehicles
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Hang Zhao
+  - Chunhua Liu
+  - Zaixin Song
+  - Jincheng Yu
+  publisher: Energies
+  date: '2019-05-17'
+  link: https://doi.org/g9nbhd
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/TPWRD.2019.2902388
+  title: Enhanced Summation Impedance Relay for EHV Transmission Lines
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Zhengtian Li
+  - Ning Tong
+  - Xiangning Lin
+  - Zhixun Wang
+  - Yuchao Zheng
+  - Ran Lyu
+  - Hang Zhao
+  - Le Chen
+  publisher: IEEE Transactions on Power Delivery
+  date: '2019-06-01'
+  link: https://doi.org/gnnj68
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PESGM.2017.8274015
+  title: A novel robust magnetizing inrush fast identification criterion based on
+    partial hausdorff distance
+  authors:
+  - Qianwen Guo
+  - Le Chen
+  - Jianxiang Xie
+  - Jiancheng Liu
+  - Jun Xiong
+  - Wenxiong Mo
+  - Hang Zhao
+  publisher: 2017 IEEE Power &amp; Energy Society General Meeting
+  date: '2017-07-01'
+  link: https://doi.org/g9nbhf
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPWRD.2017.2731994
+  title: Similarity Comparison Based High-Speed Pilot Protection for Transmission
+    Line
+  authors:
+  - Le Chen
+  - Xiangning Lin
+  - Zhengtian Li
+  - Fanrong Wei
+  - Hang Zhao
+  - Zhiqian Bo
+  - Jingguang Huang
+  - Ke Deng
+  publisher: IEEE Transactions on Power Delivery
+  date: '2018-04-01'
+  link: https://doi.org/gdb8fx
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijepes.2018.04.025
+  title: Special protection system to cope with the unavailability of sampling values
+    from an entire substation
+  authors:
+  - Neng Jin
+  - Xiangning Lin
+  - Hang Zhao
+  - Jiawei Xing
+  - Zhengtian Li
+  - Aiguo Tan
+  - Ning Tong
+  - Le Chen
+  - Yao Liu
+  - Rong Jing
+  publisher: International Journal of Electrical Power &amp; Energy Systems
+  date: '2018-11-01'
+  link: https://doi.org/gfbthh
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ISAP.2017.8071382
+  title: Forecast of electric vehicle charging demand based on traffic flow model
+    and optimal path planning
+  authors:
+  - Shu Su
+  - Hang Zhao
+  - Hongzhi Zhang
+  - Xiangning Lin
+  - Feipeng Yang
+  - Zhengtian Li
+  publisher: 2017 19th International Conference on Intelligent System Application
+    to Power Systems (ISAP)
+  date: '2017-09-01'
+  link: https://doi.org/gnmprq
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202404.0140.v1
+  title: Design of an Axial-type Magnetic Gear with Auxiliary Flux-enhancing Structure
+  authors:
+  - Fang Li
+  - Hang Zhao
+  - Xiangdong Su
+  publisher: MDPI AG
+  date: '2024-04-02'
+  link: https://doi.org/g9nbhg
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202312.2018.v1
+  title: Subdomain Analytical Modeling of a Double-Stator Spoke-Type Permanent-Magnet
+    Vernier Machine
+  authors:
+  - Xiangdong Su
+  - Hang Zhao
+  - Zhijun Ou
+  - Jincheng Yu
+  - Chunhua Liu
+  publisher: MDPI AG
+  date: '2023-12-27'
+  link: https://doi.org/g9nbhh
+  orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +210,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +226,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
