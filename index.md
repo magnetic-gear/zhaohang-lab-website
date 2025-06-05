@@ -26,7 +26,7 @@ Intelligent design of electric machines, using surrogate modeling method, we can
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Robot actuator blender.png"
   link="research"
   title="Our Research"
   text=text
@@ -74,7 +74,7 @@ Application of electric machine into robots and autonomous systems.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Self-made UAV.jpg"
   link="team"
   title="Our Team"
   text=text
