@@ -1,8 +1,8 @@
 ---
 name: YIN Zhenxiao
 image: images/photo.jpg
-role: PhD student
-group: alum
+role: PhD
+group: 2022 enrolled PhD
 links:
   # github: john-doe
 ---

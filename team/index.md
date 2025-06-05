@@ -7,29 +7,32 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team consists of students from electrical engineering, mechanical engineering, automation, robotics, etc. Team memebers collaborate closely for cross-disciplinary research.
 
-{% include section.html %}
+## Principal Investigator
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+## PhD Student
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include list.html data="members" component="portrait" filter="group == '2022 enrolled PhD'" %}
+{% include list.html data="members" component="portrait" filter="group == '2023 enrolled PhD'" %}
+{% include list.html data="members" component="portrait" filter="group == '2024 enrolled PhD'" %}
 
-{% include section.html %}
+## MPhil Student
 
-{% capture content %}
+{% include list.html data="members" component="portrait" filter="group == '2023 enrolled MPhil'" %}
+{% include list.html data="members" component="portrait" filter="group == '2024 enrolled MPhil'" %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Research Assistant
 
-{% endcapture %}
+{% include list.html data="members" component="portrait" filter="group == 'Senior RA'" %}
+{% include list.html data="members" component="portrait" filter="group == 'Junior RA'" %}
+
+<!-- {% include list.html data="members" component="portrait" filter="role == 'RA'" %} -->
+
+<!-- {% capture content %}
+
+{% endcapture %} -->
 
 {% include grid.html style="square" content=content %}

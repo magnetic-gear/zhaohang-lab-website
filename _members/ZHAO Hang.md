@@ -1,11 +1,10 @@
 ---
 name: ZHAO Hang
 image: images/ZHAO Hang.jpg
-role: principal-investigator
+role: pi
 affiliation: The Hong Kong University of Science and Technology (Guangzhou) & The Hong Kong University of Science and Technology (CWB)
 # aliases:
 #   - J. Smith
-#   - J Smith
 links:
   home-page: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHAO-Hang/hangzhao
   orcid: 0000-0003-2451-3719

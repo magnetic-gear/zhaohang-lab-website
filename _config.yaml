@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: AMDT
-subtitle: 
+title: AMDT Lab
+subtitle: AI + Electric Motor
 description: Advanced Mootor Drive Technology Lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/back-ground.jpg
+footer: images/back-ground.jpg
 proofer: false
 
 # site social media and other links

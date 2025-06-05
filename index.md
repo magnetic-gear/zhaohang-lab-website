@@ -49,7 +49,7 @@ Intelligent control of electric machine, we solve the real-time issue and interp
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Intelligent motor control.PNG"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Application of electric machine into robots and autonomous systems.
 
 {%
   include feature.html
-  image="images/Self-made UAV.jpg"
+  image="images/Self-made UAV.PNG"
   link="team"
   title="Our Team"
   text=text
