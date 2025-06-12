@@ -1,6 +1,6 @@
 ---
 name: ZHAO Hang
-image: images/ZHAO Hang.jpg
+image: images/ZHAO Hang new.jpg
 role: pi
 affiliation: The Hong Kong University of Science and Technology (Guangzhou) & The Hong Kong University of Science and Technology (CWB)
 # aliases:
