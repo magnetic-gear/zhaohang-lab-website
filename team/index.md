@@ -29,6 +29,10 @@ Our team consists of students from electrical engineering, mechanical engineerin
 {% include list.html data="members" component="portrait" filter="group == 'Senior RA'" %}
 {% include list.html data="members" component="portrait" filter="group == 'Junior RA'" %}
 
+## Alumni
+
+{% include list.html data="members" component="portrait" style="small" filter="group == 'alumni'" %}
+
 <!-- {% include list.html data="members" component="portrait" filter="role == 'RA'" %} -->
 
 <!-- {% capture content %}

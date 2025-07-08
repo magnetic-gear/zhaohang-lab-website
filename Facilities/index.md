@@ -2,12 +2,16 @@
 title: Facilities
 nav:
   order: 4
-  tooltip: Email, address, and location
+  tooltip: Equipment in our lab
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Facilities
 
-Our laboratory is continually enrolling PhD students who possess self-motivation and willingness to engage in cross-disciplinary research. We welcome collaborations with other institutions and enterprises. If you are interested, please feel free to contact us via email or visit us for further discussion.
+Our AMDT lab possesses many advanced testbenches and facilities for new prototype testing and algorithm validation, including a high-precision motor test bench, a large-torque motor test bench, a multi-phase motor test bench, 2 DoF motor test bench, a motor-propeller test bench, a robot joint actuator test bench, a power grid HIL simulator, robotic scientist automation systems, etc. 
+
+The facilities includes Gaussmeter, vibration and noise analyzer, thermal imager, power analyzer, high-precision torque sensor, multi-channel oscilloscope, dSPACE SCALEXIO, dSPACE Microlabbox, ModelingTech MT 8020 HIL simulator, NI PXI HIL simulator, UR 6-DoF robot, ABB 6-DoF robot, Franka 7-DoF robot, etc.
+
+
 
 
 {% include section.html %}
@@ -58,8 +62,8 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/HKUST(GZ) twilight.jpg"
-  caption="HKUST(GZ) campus at twilight"
+  image="images/facilities/2 DoF linear rotary motor test bench.jpg"
+  caption="2 DoF linear rotary motor test bench"
 %}
 
 {% endcapture %}
@@ -68,8 +72,28 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/IISR opening.jpg"
-  caption="IISR opening ceremony"
+  image="images/facilities/Robot actuator test bench.jpg"
+  caption="Robot actuator test bench"
+%}
+
+{% endcapture %}
+
+{% capture col7 %}
+
+{%
+  include figure.html
+  image="images/facilities/Smart grid test bench.jpg"
+  caption="Smart grid test bench"
+%}
+
+{% endcapture %}
+
+{% capture col8 %}
+
+{%
+  include figure.html
+  image="images/facilities/Robot-assisted AI Scientist test bench.jpg"
+  caption="Robot-assisted AI Scientist test bench"
 %}
 
 {% endcapture %}
@@ -78,3 +102,7 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include cols.html col3=col3 col4=col4 %}
+
+{% include cols.html col5=col5 col6=col6 %}
+
+{% include cols.html col7=col7 col8=col8 %}

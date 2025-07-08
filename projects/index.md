@@ -2,13 +2,16 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Government sponsored and industry projects
 ---
 
 # {% include icon.html icon="fa-solid fa-robot" %}Projects
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This page shows our upcoming, current, and past sponsored research projects. 
+<br>
+<br>
+We not only conduct cutting-edge research, but also try to work closely with industry. We have established good collaborations with many top companies, and we believe that the economic benefit is a core criterion to evaluate the research; good research should propel the advancement of our society.
+<br>
+<br>
 
 {% include tags.html tags="publication, resource, website" %}
 

@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is continually enrolling PhD students who possess self-motivation and willingness to engage in cross-disciplinary research. We welcome collaborations with other institutions and enterprises. If you are interested, please feel free to contact us via email or visit us for further discussion.
+Our laboratory is continually enrolling PhD students, Mphil students, and research assistants who possess self-motivation and willingness to engage in cross-disciplinary research. Students with background in electric machine design & control, mechanical design, machine learning, and power grid are preferred.
+
+We welcome collaborations with other institutions and enterprises. If you are interested, please feel free to contact us via email or visit us for further discussion.
 
 {%
   include button.html
@@ -21,6 +23,14 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
   text="(020) 8833-5866"
   link="+86-020-8833-5866"
 %}
+
+{%
+  include button.html
+  type="website"
+  text="HKUST(GZ) Official Website"
+  link="https://www.hkust-gz.edu.cn/"
+%}
+
 {%
   include button.html
   type="address"
@@ -34,7 +44,7 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/HKUST(GZ) campus.jpg"
+  image="images/campus scenes/HKUST(GZ) campus.jpg"
   caption="HKUST(GZ) campus"
 %}
 
@@ -44,8 +54,8 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/HKUST(GZ) twilight.jpg"
-  caption="HKUST(GZ) campus at twilight"
+  image="images/campus scenes/HKUST(GZ) twilight.jpg"
+  caption="HKUST(GZ) twilight"
 %}
 
 {% endcapture %}
@@ -54,8 +64,8 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/IISR opening.jpg"
-  caption="IISR opening ceremony"
+  image="images/campus scenes/Administrative building.jpg"
+  caption="Administrative building"
 %}
 
 {% endcapture %}
@@ -66,8 +76,8 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/HKUST(GZ) campus.jpg"
-  caption="HKUST(GZ) campus"
+  image="images/campus scenes/Activity center.jpg"
+  caption="Core area"
 %}
 
 {% endcapture %}
@@ -76,8 +86,8 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/HKUST(GZ) twilight.jpg"
-  caption="HKUST(GZ) campus at twilight"
+  image="images/campus scenes/Library.jpg"
+  caption="Library"
 %}
 
 {% endcapture %}
@@ -86,8 +96,38 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 
 {%
   include figure.html
-  image="images/IISR opening.jpg"
-  caption="IISR opening ceremony"
+  image="images/campus scenes/Dormitory.jpg"
+  caption="Activity center"
+%}
+
+{% endcapture %}
+
+{% capture col7 %}
+
+{%
+  include figure.html
+  image="images/campus scenes/Core area.jpg"
+  caption="Dormitory"
+%}
+
+{% endcapture %}
+
+{% capture col8 %}
+
+{%
+  include figure.html
+  image="images/campus scenes/Stadium.jpg"
+  caption="Stadium"
+%}
+
+{% endcapture %}
+
+{% capture col9 %}
+
+{%
+  include figure.html
+  image="images/campus scenes/Our IISR lab opening.jpg"
+  caption="Our IISR lab opening"
 %}
 
 {% endcapture %}
@@ -96,3 +136,5 @@ Our laboratory is continually enrolling PhD students who possess self-motivation
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include cols.html col4=col4 col5=col5 col6=col6 %}
+
+{% include cols.html col7=col7 col8=col8 col9=col9 %}
