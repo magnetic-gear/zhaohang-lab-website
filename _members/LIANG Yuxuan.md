@@ -1,8 +1,8 @@
 ---
 name: LIANG Yuxuan
 image: images/LIANG Yuxuan.jpg
-role: MPhil
-group: 2023 enrolled MPhil
+role: PhD
+group: 2025 enrolled PhD
 links:
     website: https://www.zhihu.com/people/xing-chen-xiao-shen
   # github: john-doe

@@ -1,8 +1,8 @@
 ---
 name: ZHOU Fobao
 image: images/ZHOU Fobao.jpg
-role: RA
-group: Senior RA
+role: PhD
+group: 2025 enrolled PhD
 links:
   # github: john-doe
   orcid: 0000-0002-7316-2452

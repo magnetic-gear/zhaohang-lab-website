@@ -5,7 +5,7 @@ nav:
   tooltip: Lab updates, events, and announcements
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 This page covers general updates for our lab, announcments for new research projects, and other relevent updates from our lab.
 

@@ -10,13 +10,26 @@
     {% endif %}
     class="feature-image"
     aria-label="{{ include.title | default: "feature link" | regex_strip }}"
+     style="
+      display: flex; /* 开启 Flexbox 布局 */
+      align-items: center; /* 垂直居中对齐项目 */"
   >
-    <img
-      src="{{ include.image | relative_url | uri_escape }}"
-      loading="lazy"
-      alt="{{ include.title | default: "feature image" | regex_strip }}"
-      {% include fallback.html %}
-    >
+<img
+  src="{{ include.image | relative_url | uri_escape }}"
+  loading="lazy"
+  alt="{{ include.title | default: "feature image" | regex_strip }}"
+  style="
+        max-width: var(--image-width, 100%);  /* 默认宽度为100% */
+        height: auto;                         /* 保持高度自适应 */
+        object-fit: cover;  /* 保持图片比例，完整显示在容器内 */
+        border-radius: var(--rounded, 1);     /* 可选圆角 */
+        box-shadow: var(--shadow, none);     /* 可选阴影 */
+      "
+  {% include fallback.html %}
+>
+
+
+
   </a>
   <div class="feature-text">
     {% if include.title %}

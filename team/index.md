@@ -18,6 +18,7 @@ Our team consists of students from electrical engineering, mechanical engineerin
 {% include list.html data="members" component="portrait" filter="group == '2022 enrolled PhD'" %}
 {% include list.html data="members" component="portrait" filter="group == '2023 enrolled PhD'" %}
 {% include list.html data="members" component="portrait" filter="group == '2024 enrolled PhD'" %}
+{% include list.html data="members" component="portrait" filter="group == '2025 enrolled PhD'" %}
 
 ## MPhil Student
 

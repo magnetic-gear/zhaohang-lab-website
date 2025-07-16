@@ -13,18 +13,24 @@ We not only conduct cutting-edge research, but also try to work closely with ind
 <br>
 <br>
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="government sponsored project, industry project, university project" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Current
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html data="projects" component="card" filter="group == 'current'"  %}
 
 {% include section.html %}
 
-## More
+## Upcoming
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html data="projects" component="card" filter="group == 'upcoming'" style="small" %}
+
+{% include section.html %}
+
+## Past
+
+{% include list.html data="projects" component="card" filter="group == 'past'" style="small" %}

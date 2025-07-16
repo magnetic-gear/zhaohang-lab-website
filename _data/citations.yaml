@@ -1,5 +1,314 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.rser.2025.115609
+  title: 'Review of surrogate model assisted multi-objective design optimization of
+    electrical machines: New opportunities and challenges'
+  authors:
+  - Liyang Liu
+  - Zequan Li
+  - Haoyu Kang
+  - Yang Xiao
+  - Lu Sun
+  - Hang Zhao
+  - Z.Q. Zhu
+  - Yiming Ma
+  publisher: Renewable and Sustainable Energy Reviews
+  date: '2025-06-01'
+  link: https://doi.org/g89rbj
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tte.2024.3524783
+  title: Well-Conditioned Identifiability Criteria With Observability Degree for Parameter
+    Estimation of Permanent Magnet Synchronous Motors
+  authors:
+  - Xinghao Wang
+  - Hao Jing
+  - Zifeng Chen
+  - Dehui Luo
+  - Hang Zhao
+  - Xueqing Wang
+  - Dianxun Xiao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2025-06-01'
+  link: https://doi.org/g9p3bs
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tpel.2025.3532627
+  title: 'Form Induced State-Drop Compensator: Compensation Scheme in Electric Motors
+    With Zero-Speed Drop'
+  authors:
+  - Zhenxiao Yin
+  - Shaoliang Zhou
+  - Yujia Zhang
+  - Yuxuan Liang
+  - Dianxun Xiao
+  - Hang Zhao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2025-05-01'
+  link: https://doi.org/g9p3bt
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18402/resci.2025.04.04
+  title: 'Land-sea integrated grid architecture based on electric power-hydrogen coupling
+    and its efficacy for offshore wind power systems: A case study of the coastal
+    grid in Guangdong Province'
+  authors:
+  - TAN Ke
+  - XIAO Haihua
+  - ZHANG Hongzhi
+  - MA Yunfeng
+  - ZHAO Hang
+  publisher: "\u8D44\u6E90\u79D1\u5B66"
+  date: '2025-01-01'
+  link: https://doi.org/g9sk8z
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmech.2024.3443929
+  title: Torque-Induced-Overshoot Reduction Inspired Compensator for PMSMs Using Motor-Physics
+    Embedded Gaussian Process Regression
+  authors:
+  - Zhenxiao Yin
+  - Xiaobing Dai
+  - Zewen Yang
+  - Yang Shen
+  - Fang Li
+  - Dianxun Xiao
+  - Hang Zhao
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2025-04-01'
+  link: https://doi.org/g9sk82
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/jstsp.2024.3430822
+  title: Plant-Physics-Guided Neural Network Control for Permanent Magnet Synchronous
+    Motors
+  authors:
+  - Zhenxiao Yin
+  - Xu Chen
+  - Yang Shen
+  - Xiangdong Su
+  - Dianxun Xiao
+  - Dirk Abel
+  - Hang Zhao
+  publisher: IEEE Journal of Selected Topics in Signal Processing
+  date: '2025-01-01'
+  link: https://doi.org/g9sk83
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tie.2025.3536538
+  title: Complex-Vector Flux-Linkage Envelope Demodulation for High-Speed Resolver-to-Digital
+    Conversion System
+  authors:
+  - Wenyuan Mi
+  - Jincheng Yu
+  - Fei Zhao
+  - Guangzhong Dong
+  - Hang Zhao
+  publisher: IEEE Transactions on Industrial Electronics
+  date: '2025-01-01'
+  link: https://doi.org/g9p3bv
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tte.2025.3543230
+  title: Order-Reduced Nonlinear Semi-Analytical Multiphysics Model for Axial-Flux
+    Motors
+  authors:
+  - Xiangdong Su
+  - Fang Li
+  - Zhenxiao Yin
+  - Xuyang Liu
+  - Hang Zhao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2025-01-01'
+  link: https://doi.org/g9p3bw
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icems60997.2024.10921194
+  title: An Improved Deadbeat Direct Torque and Flux Control of Five-Phase Permanent
+    Magnet Synchronous Motor
+  authors:
+  - Yujia Zhang
+  - Yang Shen
+  - Zhenxiao Yin
+  - Yuxuan Liang
+  - Hang Zhao
+  publisher: 2024 27th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2024-11-26'
+  link: https://doi.org/g9sk85
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icems60997.2024.10921442
+  title: An Improved Torque Ripple Minimization Pulsewidth Modulation for Induction
+    Motors Under Low Carrier Ratio
+  authors:
+  - Yang Shen
+  - Yiming Ma
+  - Yujia Zhang
+  - Zhenxiao Yin
+  - Hang Zhao
+  publisher: 2024 27th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2024-11-26'
+  link: https://doi.org/g9sk86
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icems60997.2024.10921139
+  title: Design and Analysis of Fault-Tolerant IPM Considering Bidirectional Electromagnetic-Thermal
+    Coupling Constraints
+  authors:
+  - Yiming Ma
+  - Xiangdong Su
+  - Zhenxiao Yin
+  - Yujia Zhang
+  - Hang Zhao
+  publisher: 2024 27th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2024-11-26'
+  link: https://doi.org/g9sk87
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icems60997.2024.10921336
+  title: Ultra-Local Model-Free Predictive Control with Switching Strategy of PMSMs
+    for Two-Phase Stationary Current
+  authors:
+  - Xueyan Wang
+  - Zhenxiao Yin
+  - Yang Shen
+  - Ming Liu
+  - Hang Zhao
+  publisher: 2024 27th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2024-11-26'
+  link: https://doi.org/g9sk88
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iecon55916.2024.10905988
+  title: Design and Optimization of a Dual-Rotor and Flat-Type-Stator Transverse Flux
+    Machine
+  authors:
+  - Zhijun Ou
+  - Hang Zhao
+  - Liyang Liu
+  - Xiangdong Su
+  - Fang Li
+  - Hui Wang
+  publisher: IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics
+    Society
+  date: '2024-11-03'
+  link: https://doi.org/g9sk89
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icpre62586.2024.10768415
+  title: A Comparative Study of V-shaped IPMSMs with Asymmetric and Symmetric Rotors
+  authors:
+  - Liyang Liu
+  - Yiming Ma
+  - Kang Shuai
+  - Yang Xiao
+  - Haoyu Kang
+  - Zhijun Ou
+  - Hang Zhao
+  publisher: 2024 The 9th International Conference on Power and Renewable Energy (ICPRE)
+  date: '2024-09-20'
+  link: https://doi.org/g9sk9b
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icpre62586.2024.10768653
+  title: Characteristic Analysis of Flux Switching Linear Machine for Gravity Energy
+    Storage System
+  authors:
+  - Yao Li
+  - Zhijun Ou
+  - Yujun Zhang
+  - Yang Shen
+  - Xueyan Wang
+  - Shaoliang Zhou
+  - Xiaochao Zeng
+  - Hang Zhao
+  publisher: 2024 The 9th International Conference on Power and Renewable Energy (ICPRE)
+  date: '2024-09-20'
+  link: https://doi.org/g9sk9d
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icem60801.2024.10700320
+  title: Robust Optimization of a Stator Tooth Chamfering IPMSM for Electric Power
+    Steering Applications
+  authors:
+  - Liyang Liu
+  - Yiming Ma
+  - Ruichi Wang
+  - Zequan Li
+  - Lu Sun
+  - Hang Zhao
+  publisher: 2024 International Conference on Electrical Machines (ICEM)
+  date: '2024-09-01'
+  link: https://doi.org/g9sk9f
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tpel.2024.3399599
+  title: A Switched Ultra-Local Model-Free Predictive Controller for PMSMs
+  authors:
+  - Zhenxiao Yin
+  - Xueyan Wang
+  - Xiangdong Su
+  - Yang Shen
+  - Dianxun Xiao
+  - Hang Zhao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2024-09-01'
+  link: https://doi.org/g9sk9g
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tte.2023.3330986
+  title: Design and Analysis of Double-Rotor Flux-Reversal PM Magnetic Differential
+    Motor With Suppressed Rotor Coupling
+  authors:
+  - Tengbo Yang
+  - K. T. Chau
+  - T. W. Ching
+  - Zhiwei Xue
+  - Hang Zhao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2024-09-01'
+  link: https://doi.org/g9sk9h
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tte.2023.3326826
+  title: General-Purpose High-Speed Position-Sensorless Control of Switched Reluctance
+    Motors Using Single-Phase Adaptive Observer
+  authors:
+  - Zifeng Chen
+  - Hao Jing
+  - Xinghao Wang
+  - Xueqing Wang
+  - Gaoliang Fang
+  - Hang Zhao
+  - Dianxun Xiao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2024-09-01'
+  link: https://doi.org/g9sk9j
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/en17163864
   title: Optimal Design of an Interior Permanent Magnet Synchronous Motor for Electric
     Vehicle Applications Using a Machine Learning-Based Surrogate Model
@@ -13,15 +322,38 @@
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/en17092207
-  title: Design of an Axial-Type Magnetic Gear with Auxiliary Flux-Enhancing Structure
+- id: doi:10.1109/tpel.2024.3364087
+  title: Selective Harmonic Elimination and Dynamic Enhancement in Magnetic-Characteristic-Free
+    Sensorless Control of SRM Drives at High Speeds
   authors:
-  - Fang Li
+  - Zifeng Chen
+  - Hao Jing
+  - Xinghao Wang
+  - Dehui Luo
+  - Xueqing Wang
+  - Gaoliang Fang
   - Hang Zhao
-  - Xiangdong Su
-  publisher: Energies
-  date: '2024-05-03'
-  link: https://doi.org/g9nbg9
+  - Dianxun Xiao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2024-05-01'
+  link: https://doi.org/g9sk9k
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tpel.2023.3336724
+  title: Optimization-Based Parameter Estimation for PMSMs Under Unified Observable
+    Conditions
+  authors:
+  - Xinghao Wang
+  - Hao Jing
+  - Zifeng Chen
+  - Xueqing Wang
+  - Lefei Ge
+  - Hang Zhao
+  - Dianxun Xiao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2024-02-01'
+  link: https://doi.org/g9sk9m
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -37,6 +369,241 @@
   publisher: Energies
   date: '2024-02-26'
   link: https://doi.org/g9nbhb
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icems59686.2023.10344833
+  title: A Novel Coupling Control Method for 6-DOF AUVs based on Multi-Motor Cooperation
+  authors:
+  - Pei Lu
+  - Zhenxiao Yin
+  - Hang Zhao
+  publisher: 2023 26th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2023-11-05'
+  link: https://doi.org/g9sk9q
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icems59686.2023.10345329
+  title: Analytical Model Transfer-Based Surrogate-Assisted Design Optimization for
+    SPMVM Using Structural Similarity
+  authors:
+  - Liyang Liu
+  - Yiming Ma
+  - Ruichi Wang
+  - Zequan Li
+  - Yang Xiao
+  - Hang Zhao
+  publisher: 2023 26th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2023-11-05'
+  link: https://doi.org/g9sk9r
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icems59686.2023.10345249
+  title: Multiphysics Research and Loss Calculation Considering the Fluid Regime of
+    the Airgap Based on High-Speed PMSM
+  authors:
+  - Xiangdong Su
+  - Hang Zhao
+  - Fang Li
+  publisher: 2023 26th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2023-11-05'
+  link: https://doi.org/g9sk9s
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icems59686.2023.10344507
+  title: Optimization-Method-Inspired Update Scheme for Neural Network Assisted Control
+    Tuning of PMSMs
+  authors:
+  - Zhenxiao Yin
+  - Hang Zhao
+  - Pei Lu
+  - Yang Shen
+  publisher: 2023 26th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2023-11-05'
+  link: https://doi.org/g9sk9t
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmag.2023.3283106
+  title: Feasibility Investigation on Sinusoidal-Reluctance Rotor Contour in Variable
+    Reluctance Resolver
+  authors:
+  - Wenyuan Mi
+  - Jincheng Yu
+  - Zheng Cai
+  - Hang Zhao
+  - Fei Zhao
+  - Yixiao Luo
+  publisher: IEEE Transactions on Magnetics
+  date: '2023-11-01'
+  link: https://doi.org/g9sk9v
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iecon51785.2023.10311838
+  title: Comparison of Structural Optimization for PMSMs Based on Various Machine
+    Learning Methods
+  authors:
+  - Fang Li
+  - Hang Zhao
+  - Zhenxiao Yin
+  publisher: IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics
+    Society
+  date: '2023-10-16'
+  link: https://doi.org/g9sk9w
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iecon51785.2023.10312503
+  title: Learning-based Control for PMSM Using Distributed Gaussian Processes with
+    Optimal Aggregation Strategy
+  authors:
+  - Zhenxiao Yin
+  - Xiaobing Dai
+  - Zewen Yang
+  - Yang Shen
+  - Georges Hattab
+  - Hang Zhao
+  publisher: IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics
+    Society
+  date: '2023-10-16'
+  link: https://doi.org/g9sk9x
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isie51358.2023.10228162
+  title: Design Considerations of Outer-Rotor Flux-Modulated Permanent-Magnet In-Wheel
+    Motors
+  authors:
+  - Zekang Huang
+  - Yixiao Luo
+  - Wenyuan Mi
+  - Zheng Cai
+  - Fei Zhao
+  - Hang Zhao
+  - Jincheng Yu
+  publisher: 2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE)
+  date: '2023-06-19'
+  link: https://doi.org/g9sk9z
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isie51358.2023.10228014
+  title: Design and Performance Optimization of a Novel High Temperature Superconducting
+    Linear Flux-Switching Motor
+  authors:
+  - Xiangdong Su
+  - Hang Zhao
+  - Fang Li
+  publisher: 2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE)
+  date: '2023-06-19'
+  link: https://doi.org/g9sk92
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/isie51358.2023.10228110
+  title: Overshoot Reduction Inspired Recurrent RBF Neural Network Controller Design
+    for PMSM
+  authors:
+  - Zhenxiao Yin
+  - Hang Zhao
+  publisher: 2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE)
+  date: '2023-06-19'
+  link: https://doi.org/g9sk93
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/intermagshortpapers58606.2023.10228467
+  title: Design of a Novel Modular Flux Switching Permanent Magnet Resolver
+  authors:
+  - Wenyuan Mi
+  - Jincheng Yu
+  - Zaixin Song
+  - Kuang Yang
+  - Zheng Cai
+  - Hang Zhao
+  publisher: 2023 IEEE International Magnetic Conference - Short Papers (INTERMAG
+    Short Papers)
+  date: '2023-05-01'
+  link: https://doi.org/g9sk94
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iecon49645.2022.9968907
+  title: Direct Torque Control in Series-End Winding PMSM Drives
+  authors:
+  - Zhiping Dong
+  - Hang Zhao
+  - Hao Wen
+  - Chunhua Liu
+  publisher: "IECON 2022 \u2013 48th Annual Conference of the IEEE Industrial Electronics\
+    \ Society"
+  date: '2022-10-17'
+  link: https://doi.org/g9sk96
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iecon49645.2022.9969086
+  title: Implementation of Various Neural-Network-Based Adaptive Speed PI Controllers
+    for Dual-Three-Phase PMSM
+  authors:
+  - Zhenxiao Yin
+  - Hang Zhao
+  publisher: "IECON 2022 \u2013 48th Annual Conference of the IEEE Industrial Electronics\
+    \ Society"
+  date: '2022-10-17'
+  link: https://doi.org/g9sk97
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ecce50734.2022.9948084
+  title: A Virtual Voltage Vector-Based Space Vector Modulation Scheme for Three-Phase
+    Open-Winding Motor Drive with Five-Leg Converter
+  authors:
+  - Zhiping Dong
+  - Hang Zhao
+  - Rundong Huang
+  - Wusen Wang
+  - Chunhua Liu
+  publisher: 2022 IEEE Energy Conversion Congress and Exposition (ECCE)
+  date: '2022-10-09'
+  link: https://doi.org/g9sk98
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icit48603.2022.10002751
+  title: Comparative Study of Double-Stator Vernier Machines with Different Interior
+    Permanent-Magnet Arrangements for Unmanned Aerial Vehicles
+  authors:
+  - Jincheng Yu
+  - Fei Zhao
+  - Hang Zhao
+  publisher: 2022 IEEE International Conference on Industrial Technology (ICIT)
+  date: '2022-08-22'
+  link: https://doi.org/g9sk99
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/icems52562.2021.9634372
+  title: A Magnetic-Differential Double-Rotor Flux-Reversal Permanent-Magnet Motor
+    for Electric Vehicles
+  authors:
+  - Tengbo Yang
+  - K. T. Chau
+  - T. W. Ching
+  - Hang Zhao
+  - Hui Wang
+  publisher: 2021 24th International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2021-10-31'
+  link: https://doi.org/g9smck
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml

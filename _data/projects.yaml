@@ -1,47 +1,29 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Quantum Augmented Networks (QuaNET)
+  subtitle: DARPA
+  group: current
+  image: images/icon.png
+  link: /projects/afosr/
+  description: Using squeezing and entangled photons in the physical layer for enhancing security, privacy and resilience of an optical communications network. 
   tags:
-    - resource
+    - government-sponsored-project
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Photon-Efficient Nanoscale Optical Metrology (PHENOM)
+  subtitle: DARPA
+  group: upcoming
+  image: images/phenom.png
+  link: https://phoqus.us/projects/phenom
+  description: Generation of many-photon entangled states using atomic emitters that act as codes for photon loss but exhibit quantum-enhanced phase sensitivity.
   tags:
-    - resource
+    - industry-project
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Optimizing Entanglement to attain Quantum Limit of Long-Baseline Imaging
+  subtitle: AFOSR
+  group: past
+  image: images/afosr.png
+  link: https://phoqus.us/projects/afosr-lb
+  description: Investigation of the use of distributed entanglement to enhance the performance of an array of passive and/or active sensors.
   tags:
-    - resource
-    - publication
+    - university-project
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-# - title: Cool Web Server
-#   subtitle: a subtitle
-#   image: images/photo.jpg
-#   link: https://github.com/
-#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#   repo: greenelab/lab-website-template
-#   tags:
-#     - software
+    

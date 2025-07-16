@@ -1,10 +1,13 @@
-{%- if include.icon contains ".svg" -%}
+{%- assign icon = include.icon -%}
+{%- assign size = include.size | default: "" -%}
+
+{%- if icon contains ".svg" -%}
   {%- capture inline -%}
-    {%- include {{ include.icon }} -%}
+    {%- include {{ icon }} -%}
   {%- endcapture -%}
-  <span class="icon">
+  <span class="icon {% if size %}icon-{{ size }}{% endif %}">
     {{- inline | strip_newlines -}}
   </span>
-{%- elsif include.icon and include.icon != "" -%}
-  <i class="icon {{ include.icon }}"></i>
+{%- elsif icon and icon != "" -%}
+  <i class="icon {{ icon }} {% if size %}size-{{ size }}{% endif %}"></i>
 {%- endif -%}

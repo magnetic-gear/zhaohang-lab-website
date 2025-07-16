@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-book-open" %}Research
+# {% include icon.html icon="fa-solid fa-book-open" %}Publications
 
 We aim to combine artificial intelligence with electric motors to solve some tough problems, and we believe we are the pioneers in this field! The related outputs are mainly published in IEEE transactions; you can find the details below.
 

@@ -6,8 +6,8 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
-  padding: 40px;
+  gap: 10px;
+  padding: 60px;
   line-height: var(--spacing);
   box-shadow: var(--shadow);
 }
@@ -22,4 +22,13 @@ footer a:hover {
 
 footer .icon {
   font-size: var(--xl);
+  width: 16px;
+  height: 16px;
+}
+
+footer svg {
+  width: 150px;
+  margin: 0;      /* 清除上下外边距 */
+  padding: 0;     /* 清除内边距 */
+  display: block; /* 避免行内元素的间隙 */
 }

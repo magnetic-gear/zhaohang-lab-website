@@ -1,10 +1,10 @@
 ---
-title: Saikat Guha Elevated to IEEE Fellow
-image: images/events/Zhenxiao best oral award.jpg
-tags: general
+title: Visit Prof. Maozheng LI's lab at Aalto Uni
+image: images/events/Visit Aalto Uni.jpg
+tags: visit
 ---
 
-Clark Distinguished Chair Professor Saikat Guha has been named to the IEEE Fellow Class of 2025 for bridging information theory and physics to design quantum-enhanced photonic sensing, communications, and networking systems. Guha is appointed to the Department of Electrical and Computer Engineering (ECE) and leads the University of Maryland Photonic Quantum Systems Group (PhoQuS).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 [Link to ClarkNet Post here](https://clarknet.eng.umd.edu/news/news_story.php?id=16395)
 

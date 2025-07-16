@@ -15,26 +15,29 @@ We welcome collaborations with other institutions and enterprises. If you are in
   include button.html
   type="email"
   text="hangzhao@hkust-gz.edu.cn"
-  link="hangzhao@hkust-gz.edu.cn"
+  tooltip="Contact our lab via email"
+  link="hangzhao@hkust-gz.edu.cn?subject=Inquiry&body=Hello"
 %}
 {%
   include button.html
   type="phone"
   text="(020) 8833-5866"
+  tooltip="Office phone number"
   link="+86-020-8833-5866"
 %}
 
 {%
   include button.html
-  type="website"
-  text="HKUST(GZ) Official Website"
+  type="link"
+  text="HKUST(GZ) Website"
+  tooltip="HKUST(GZ) official website link"
   link="https://www.hkust-gz.edu.cn/"
 %}
 
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Our campus location on Amap for easy navigation"
   link="https://www.amap.com/search?id=B0IGJURJOJ&city=440115&geoobj=116.199602%7C39.755958%7C116.796899%7C40.000348&query_type=IDQ&query=%E9%A6%99%E6%B8%AF%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6(%E5%B9%BF%E5%B7%9E)&zoom=12.26"
 %}
 

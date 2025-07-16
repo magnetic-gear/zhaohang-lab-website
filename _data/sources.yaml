@@ -15,23 +15,3 @@
 #     - open science
 #     - collaboration
 #   repo: greenelab/meta-review
-
-# - id: doi:10.1016/j.csbj.2020.05.017
-#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-# - id: doi:10.7554/eLife.32822
-#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
-- id: doi.org/10.1016/j.rser.2025.115609
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1364032125002825-gr1_lrg.jpg
-- id: doi.org/10.1109/tie.2025.3536538
-- id: doi.org/10.1109/tte.2025.3543230
-- id: doi.org/10.1016/j.rser.2025.115609
-- id: doi.org/10.1109/tte.2024.3524783
-- id: doi.org/10.1109/tpel.2025.3532627
-- id: doi.org/10.3390/en17163864
-- id: doi.org/10.3390/en17051114
-- id: doi.org/10.1109/TIE.2022.3170619
-- id: doi.org/10.1109/TMECH.2021.3118316
-- id: doi.org/10.1109/TTE.2021.3124891
-- id: doi.org/10.1109/TTE.2022.3144594

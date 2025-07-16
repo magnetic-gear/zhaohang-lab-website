@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: AMDT Lab
-subtitle: AI + Electric motors
+subtitle: AI + Electric Motors
 description: Our lab focuses on the advanced motor drive technology, especially combing AI into electric machine design, and control.
 header: images/back-ground.jpg
 footer: images/back-ground.jpg
@@ -11,6 +11,7 @@ links:
   email: hangzhao@hkust-gz.edu.cn
   orcid: 0000-0003-2451-3719
   google-scholar: AgCuXE8AAAAJ
+  HKUST:
   # github: magnetic-gear
   # twitter: magnetic-gear
   # youtube: magnetic-gear

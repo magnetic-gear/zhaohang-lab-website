@@ -82,13 +82,33 @@ The facilities includes Gaussmeter, vibration and noise analyzer, thermal imager
 
 {%
   include figure.html
+  image="images/facilities/Large-inertia motor test bench.jpg"
+  caption="Large-inertia motor test bench"
+%}
+
+{% endcapture %}
+
+{% capture col8 %}
+
+{%
+  include figure.html
+  image="images/facilities/Simulation working station.jpg"
+  caption="Simulation working stations"
+%}
+
+{% endcapture %}
+
+{% capture col9 %}
+
+{%
+  include figure.html
   image="images/facilities/Smart grid test bench.jpg"
   caption="Smart grid test bench"
 %}
 
 {% endcapture %}
 
-{% capture col8 %}
+{% capture col10 %}
 
 {%
   include figure.html
@@ -99,10 +119,12 @@ The facilities includes Gaussmeter, vibration and noise analyzer, thermal imager
 {% endcapture %}
 
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col8 %}
 
-{% include cols.html col3=col3 col4=col4 %}
+{% include cols.html col3=col2 col4=col3 %}
 
-{% include cols.html col5=col5 col6=col6 %}
+{% include cols.html col5=col5 col6=col7 %}
 
-{% include cols.html col7=col7 col8=col8 %}
+{% include cols.html col7=col6 col8=col4 %}
+
+{% include cols.html col9=col9 col10=col10 %}

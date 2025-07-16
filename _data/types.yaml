@@ -84,6 +84,12 @@ search:
 
 # social media
 
+HKUST:
+  icon: fa-solid fa-globe
+  tooltip: HKUST(GZ) website
+  link: https://www.hkust-gz.edu.cn
+
+
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
@@ -139,6 +145,9 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 # alerts
+
+HKUST(GZ):
+   icon: HKUST.svg
 
 tip:
   icon: fa-solid fa-lightbulb
