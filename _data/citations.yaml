@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/TTE.2025.3587289
+  title: 'Enhancing Low-Carrier-Ratio Induction Motors with Pulse Pattern Control for Peak-to-peak Torque Ripple Optimization'
+  authors:
+  - Yang Shen
+  - Yujia Zhang
+  - Zhenxiao Yin
+  - Guofeng Yuan
+  - Dianxun Xiao
+  - Hang Zhao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2025-07-10'
+  link: https://ieeexplore.ieee.org/abstract/document/11075719
+  image: images/paper figures/Pulse pattern control.png
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TIE.2025.3582594
+  title: 'Design of a 2-Stator-Module Flux-Switching Permanent-Magnet Resolver With Flux-Leakage Switching Principle'
+  authors:
+  - Wenyuan Mi
+  - Jincheng Yu
+  - Fei Zhao
+  - Yifei Wang
+  - Hang Zhao
+  publisher: IEEE Transactions on Industrial Electronics
+  date: '2025-07-10'
+  link: https://ieeexplore.ieee.org/abstract/document/11076173
+  image: images/paper figures/2 stator module resolver.png
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
 - id: doi:10.1016/j.rser.2025.115609
   title: 'Review of surrogate model assisted multi-objective design optimization of
     electrical machines: New opportunities and challenges'
@@ -15,6 +48,7 @@
   publisher: Renewable and Sustainable Energy Reviews
   date: '2025-06-01'
   link: https://doi.org/g89rbj
+  image: images/paper figures/Surrogate modeling.jpg
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -48,6 +82,7 @@
   publisher: IEEE Transactions on Power Electronics
   date: '2025-05-01'
   link: https://doi.org/g9p3bt
+  image: images/paper figures/Form induced compensator.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -56,14 +91,15 @@
     and its efficacy for offshore wind power systems: A case study of the coastal
     grid in Guangdong Province'
   authors:
-  - TAN Ke
-  - XIAO Haihua
-  - ZHANG Hongzhi
-  - MA Yunfeng
-  - ZHAO Hang
+  - Ke Tan
+  - Haihua Xiao
+  - Hongzhi Zhang
+  - Yunfeng Ma
+  - Hang Zhao
   publisher: "\u8D44\u6E90\u79D1\u5B66"
   date: '2025-01-01'
   link: https://doi.org/g9sk8z
+  image: images/paper figures/Land-sea power grid.jpg
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -81,6 +117,7 @@
   publisher: IEEE/ASME Transactions on Mechatronics
   date: '2025-04-01'
   link: https://doi.org/g9sk82
+  image: images/paper figures/Torque induced overshoot reduction.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -98,6 +135,7 @@
   publisher: IEEE Journal of Selected Topics in Signal Processing
   date: '2025-01-01'
   link: https://doi.org/g9sk83
+  image: images/paper figures/plant physics guided control.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -113,6 +151,7 @@
   publisher: IEEE Transactions on Industrial Electronics
   date: '2025-01-01'
   link: https://doi.org/g9p3bv
+  image: images/paper figures/Complex-vector resolver.jpg
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -128,6 +167,7 @@
   publisher: IEEE Transactions on Transportation Electrification
   date: '2025-01-01'
   link: https://doi.org/g9p3bw
+  image: images/paper figures/Order reduced axial flux motor.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -274,6 +314,7 @@
   publisher: IEEE Transactions on Power Electronics
   date: '2024-09-01'
   link: https://doi.org/g9sk9g
+  image: images/paper figures/Ultra local motor control.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -319,9 +360,26 @@
   publisher: Energies
   date: '2024-08-06'
   link: https://doi.org/g9nbg8
+  image: images/paper figures/IPMSM surrogate modeling.jpg
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
+
+- id: doi:10.3390/en17092207
+  title: Design of an Axial-Type Magnetic Gear with Auxiliary Flux-Enhancing Structure
+  authors:
+  - Fang Li
+  - Hang Zhao
+  - Xiangdong Su
+  publisher: Energies
+  date: '2024-05-03'
+  link: https://doi.org/10.3390/en17092207
+  image: images/paper figures/Axial magentic gear.jpg
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+
 - id: doi:10.1109/tpel.2024.3364087
   title: Selective Harmonic Elimination and Dynamic Enhancement in Magnetic-Characteristic-Free
     Sensorless Control of SRM Drives at High Speeds
@@ -369,6 +427,7 @@
   publisher: Energies
   date: '2024-02-26'
   link: https://doi.org/g9nbhb
+  image: images/paper figures/Dual-stator motor.jpg
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -444,6 +503,7 @@
   publisher: IEEE Transactions on Magnetics
   date: '2023-11-01'
   link: https://doi.org/g9sk9v
+  image: images/paper figures/Sinusoidal-reluctance resolver.png
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml
@@ -734,6 +794,507 @@
     to Power Systems (ISAP)
   date: '2017-09-01'
   link: https://doi.org/gnmprq
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2021.3118316
+  title: Nonlinear Force and Vibration Analysis of an Interior Permanent Magnet Synchronous Generator With Eccentricity Detection
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Hang Zhao
+    - Rundong Huang
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2021-10-22'
+  link: https://doi.org/gnmprq
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2021.3124891
+  title: Nonlinear Force and Vibration Analysis of an Interior Permanent Magnet Synchronous Generator With Eccentricity Detection
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zhiping Dong
+    - Rundong Huang
+    - Xianglin Li
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2021-11-12'
+  link: https://doi.org/10.1109/TTE.2021.3124891
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2022.3144594
+  title: Overview of Axial-Flux Machines and Modeling Methods
+  authors:
+    - Rundong Huang
+    - Zaixin Song
+    - Hang Zhao
+    - Chunhua Liu
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2022-1-18'
+  link: https://doi.org/10.1109/TTE.2022.3144594
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TPEL.2021.3111815
+  title: Design and Control of A New Compound Double-Rotor Electric Machine for Hybrid
+    Propulsion System
+  authors:
+    - Rundong Huang
+    - Zaixin Song
+    - Hang Zhao
+    - Chunhua Liu
+  publisher: IEEE Transactions on Power Electronics
+  date: '2021-9-10'
+  link: https://doi.org/10.1109/TPEL.2021.3111815
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TIE.2020.3044785
+  title: Exact Modeling and Multi-Objective Optimization of Vernier Machines
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Wusen Wang
+  publisher: IEEE Transactions on Industrial Electronics
+  date: '2020-12-21'
+  link: https://doi.org/10.1109/TIE.2020.3044785
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: oi:10.1109/TIE.2020.3034848
+  title: Comparative Study of Double-Stator Interior-PM Vernier Machines based on
+    Electromagnetic-Structural Coupling Analysis
+  authors:
+    - Jincheng Yu
+    - Chunhua Liu
+    - Senyi Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Industrial Electronics
+  date: '2020-11-4'
+  link: https://doi.org/10.1109/TIE.2020.3034848
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TPEL.2021.3069922
+  title:  Exact Multiphysics Modelling and Experimental Validation of Spoke-Type Permanent
+    Magnet Brushless Machines
+  authors:
+    - Jincheng Yu
+    - Chunhua Liu
+    - Senyi Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2020-11-4'
+  link: https://doi.org/10.1109/TPEL.2021.3069922
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TEC.2021.3052132
+  title:  Model Predictive Torque Control for Dual Three-Phase PMSMs with Simplified Deadbeat Solution and Discrete Space-Vector Modulation Magnet Brushless Machines
+  authors:
+    - Wusen Wang
+    - Chunhua Liu
+    - Senyi Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Energy Conversion
+  date: '2021-1-15'
+  link: https://doi.org/10.1109/TEC.2021.3052132
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TPEL.2020.3016714
+  title: Model Predictive Two-Target Current Control for OW-PMSM
+  authors:
+    - Senyi Liu
+    - Chunhua Liu
+    - Yongcan Huang
+    - Hang Zhao
+  publisher: IEEE Transactions on Power Electronics
+  date: '2020-8-14'
+  link: https://doi.org/10.1109/TPEL.2020.3016714
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2020.3017671
+  title: Current Harmonic Suppression for Permanent-Magnet Synchronous Motor Based
+    on Chebyshev Filter and PI Controller
+  authors:
+    - Wusen Wang
+    - Chunhua Liu
+    - Senyi Liu
+    - Zaixin Song
+    - Hang Zhao
+    - Bin Dai
+  publisher: IEEE Transactions on Magnetics
+  date: '2020-8-18'
+  link: https://doi.org/10.1109/TMAG.2020.3017671
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TIA.2020.3040142
+  title: A Fast Optimization Scheme of Coaxial Magnetic Gears Based on Exact Analytical
+    Model Considering Magnetic Saturation
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Jincheng Yu
+  publisher: IEEE Transactions on Industry Applications
+  date: '2020-11-24'
+  link: https://doi.org/10.1109/TIA.2020.3040142
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2020.2997607
+  title: Analytical Modeling of a Double-Rotor Multiwinding Machine for Hybrid Aircraft
+    Propulsion
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Wusen Wang
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2020-5-25'
+  link: https://doi.org/10.1109/TTE.2020.2997607
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2020.2982733
+  title: Field Prediction and Validation of a Slotless Segmented-Halbach Permanent
+    Magnet Synchronous Machine for More Electric Aircraft
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Kuo Feng
+    - Hang Zhao
+    - Jincheng Yu
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2020-3-23'
+  link: https://doi.org/10.1109/TTE.2020.2982733
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/IECON43393.2020.9255217
+  title: Improved Torque Density of a Permanent Magnet Brushless AC Motor with Novel
+    Pulse Width Modulation Magnet for Electrified Application
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Hang Zhao
+  publisher: Proceedings - IECON 2020 The 46th Annual Conference of the IEEE Industrial
+    Electronics Society
+  date: '2020-10-18'
+  link: https://doi.org/10.1109/IECON43393.2020.9255217
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2020.3000953
+  title: Permeance and Inductance Modeling of a Double-Stator Hybrid-Excited Flux-Switching
+    Permanent-Magnet Machine
+  authors:
+    - Jincheng Yu
+    - Chunhua Liu
+    - Zaixin Song
+    - Hang Zhao
+  publisher: IEEE Transactions on Transportation Electrification
+  date: '2020-6-8'
+  link: https://doi.org/10.1109/TTE.2020.3000953
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2020.3003788
+  title: A Dual-Modulator Magnetic-Geared Machine for Tidal-Power Generation
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Wusen Wang
+    - Thierry Lubin
+  publisher: IEEE Transactions on Magnetics
+  date: '2020-6-19'
+  link: https://doi.org/10.1109/TMAG.2020.3003788
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2019.2947137
+  title: Modular Design of an Efficient Permanent Magnet Vernier Machine
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Feng Chai
+    - Hang Zhao
+  publisher: IEEE Transactions on Magnetics
+  date: '2020-1-9'
+  link: https://doi.org/10.1109/TMAG.2019.2947137
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1049/iet-epa.2019.0597
+  title: Analytical model for magnetic-geared doublerotor machines and its d-q-axis
+    determination
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Senyi Liu
+    - Thierry Lubin
+  publisher: IET Electric Power Applications
+  date: '2020-02-01'
+  link: https://doi.org/10.1049/iet-epa.2019.0597
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TTE.2019.2946494
+  title: Investigation on Magnetic Force of a Flux-Modulated Double-Rotor Permanent
+    Magnet Synchronous Machine for Hybrid Electric Vehicle
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Hang Zhao
+  publisher:  IEEE Transactions on Transportation Electrification
+  date: '2019-10-11'
+  link: https://doi.org/10.1109/TTE.2019.2946494
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/ICEMS.2019.8921494
+  title: Comparative Analysis of Slotless and Coreless Permanent Magnet Synchronous
+    Machines for Electric Aircraft Propulsion
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Hang Zhao
+  publisher: 2019 22nd International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2022-08-05'
+  link: https://doi.org/10.1109/ICEMS.2019.8921494
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/ICEMS.2019.8921632
+  title: Exact Analytical Solution for Two Types of Magnetic Gear and Their Control
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+  publisher: 2019 22nd International Conference on Electrical Machines and Systems
+    (ICEMS)
+  date: '2019-8-11'
+  link: https://doi.org/10.1109/ICEMS.2019.8921632
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2019.2901265
+  title: A Consequent-Pole PM Magnetic-Geared Double-Rotor Machine with Flux-Weakening
+    Ability for Hybrid Electric Vehicle Application
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+    - Senyi Liu
+  publisher: IEEE Transactions on Magnetics
+  date: '2019-3-19'
+  link:  https://doi.org/10.1109/TMAG.2019.2901265
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2019.2906849
+  title: Design and Multi-Mode Operation of Double-Stator Toroidal-Winding PM Vernier
+    Machine for Wind-Photovoltaic Hybrid Generation System
+  authors:
+    - Jincheng Yu
+    - Chunhua Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Magnetics
+  date: '2019-4-22'
+  link:  https://doi.org/10.1109/TMAG.2019.2906849
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2019.2896177
+  title: Design and Optimization Procedure of a Mechanical-Offset Complementary-Stator
+    Flux-Reversal Permanent-Magnet Machine
+  authors:
+    - Jincheng Yu
+    - Chunhua Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Magnetics
+  date: '2019-2-20'
+  link: https://doi.org/10.1109/TMAG.2019.2896177
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/TMAG.2019.2914718
+  title: Quantitative Comparison of Distinct Dual-Stator Permanent Magnet Vernier
+    Machines for Direct-Drive Applications
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Hang Zhao
+  publisher: IEEE Transactions on Magnetics
+  date: '2019-5-24'
+  link: https://doi.org/10.1109/TMAG.2019.2914718
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/APMRC.2018.8601067
+  title: Design of an effective double-rotor machine with robust mechanical structure
+  authors:
+    - Hang Zhao
+    - Chunhua Liu
+    - Zaixin Song
+  publisher: 2018 Asia-Pacific Magnetic Recording Conference, APMRC 2018
+  date: '2019-12-19'
+  link: https://doi.org/10.1109/APMRC.2018.8601067
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.1109/APMRC.2018.8601051
+  title: Modular design of an efficent permanent magnet vernier machine
+  authors:
+    - Zaixin Song
+    - Chunhua Liu
+    - Feng Chai
+    - Hang Zhao
+  publisher: 2018 Asia-Pacific Magnetic Recording Conference, APMRC 2018
+  date: '2020-1-9'
+  link: https://doi.org/10.1109/APMRC.2018.8601051
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.13334/j.0258-8013.pcsee.171694
+  title: A Hyperbolic Tangent Function Operation Characteristic Based Inverse-time
+    Protection Method of Wind Farm Collector Line
+  authors:
+    - Kun Yu
+    - Xiangning Lin
+    - Ning Tong
+    - Hao Li
+    - Hang Zhao
+    - Tianzheng Li
+    - Rui Zhang
+  publisher: "\u4e2d\u56fd\u7535\u673a\u5de5\u7a0b\u5b66\u62a5" 
+  date: '2018-08-01'
+  link: https://doi.org/10.13334/j.0258-8013.pcsee.171694
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.13334/j.0258-8013.pcsee.162218
+  title: A Voltage Correction based Inverse-time Overcurrent Protection Scheme Considering
+    Distributed Generation Stable Infeed Effect
+  authors:
+    - Kun Yu
+    - Xiangning Lin
+    - Ning Tong
+    - Hao Li
+    - Hang Zhao
+    - Tianzheng Li
+    - Jingguang Huang
+    - Zhiqian Bo
+  publisher: "\u4e2d\u56fd\u7535\u673a\u5de5\u7a0b\u5b66\u62a5" 
+  date: '2018-03-23'
+  link: https://doi.org/10.13334/j.0258-8013.pcsee.162218
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.13334/j.0258-8013.pcsee.171150
+  title: Based on Continuous Time Markov Chain Prediction Model of Action Behavior
+    of Relay Protection Device
+  authors:
+    - Hao Li
+    - Xiangning Lin
+    - Kun Yu
+    - Zhengtian Li
+    - Qingge Jiang
+    - Le Chen
+    - Jin Neng
+  publisher: "\u4e2d\u56fd\u7535\u673a\u5de5\u7a0b\u5b66\u62a5" 
+  date: '2018-11-09'
+  link: https://doi.org/10.13334/j.0258-8013.pcsee.171150
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.13334/j.0258-8013.pcsee.170102
+  title: A High-speed Protection Scheme for HVDC Transmission Line Based on Hausdorff
+    Distance Comparison
+  authors:
+    - Hang Zhao
+    - Xiangning Lin
+    - Kun Yu
+    - Hao Li
+    - Le Chen
+    - Tianzheng Li
+    - Tonghua Wu
+    - Zhiquan Guo
+  publisher: "\u4e2d\u56fd\u7535\u673a\u5de5\u7a0b\u5b66\u62a5" 
+  date: '2018-01-17'
+  link: https://doi.org/10.13334/j.0258-8013.pcsee.170102
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.3390/en10050672
+  title: An Elastic Charging Service Fee-Based Load Guiding Strategy for Fast Charging
+    Stations
+  authors:
+    - Shu Su
+    - Hang Zhao
+    - Hongzhi Zhang
+    - Hongzhi Zhang
+    - Xiangning Lin
+  publisher: energies
+  date: '2017-03-18'
+  link: https://doi.org/10.3390/en10050672
+  orcid: 0000-0003-2451-3719
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi:10.13334/j.0258-8013.pcsee.161554
+  title: Spatial and Temporal Distrib ution Model of Electric Vehicle Charging Demand
+  authors:
+    - Shu Su
+    - Xiangning Lin
+    - Hongzhi Zhang
+    - Hang Zhao
+    - Hao Li
+    - Zhengtian Li
+
+  publisher: "\u4e2d\u56fd\u7535\u673a\u5de5\u7a0b\u5b66\u62a5" 
+  date: '2017-09-08'
+  link: https://doi.org/10.13334/j.0258-8013.pcsee.161554
   orcid: 0000-0003-2451-3719
   plugin: orcid.py
   file: orcid.yaml

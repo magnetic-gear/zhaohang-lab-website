@@ -16,19 +16,23 @@ PhD:
 
 MPhil:
   icon: fa-solid fa-graduation-cap
-  description: MPhil student
+  description: MPhil Student
 
 RA:
-  icon: fa-solid fa-book-open-reader
-  description: Research assistant
+  icon: fa-solid fa-graduation-cap
+  description: Research Assistant
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-book-open-reader
   description: Undergraduate Student
+
+visiting-student:
+  icon: fa-solid fa-book-open-reader
+  description: Visiting Student
 
 alumni:
   icon: fa-solid fa-person-walking
-  description: alumni
+  description: Alumni
 
 programmer:
   icon: fa-solid fa-code
@@ -107,6 +111,12 @@ github:
   text: GitHub
   tooltip: GitHub
   link: https://github.com/$VALUE
+
+research-gate:
+  icon: fa-brands fa-researchgate
+  text: Research Gate
+  tooltip: Research Gate
+  link: https://www.researchgate.net/profile/$VALUE
 
 twitter:
   icon: fa-brands fa-twitter

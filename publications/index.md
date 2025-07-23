@@ -13,7 +13,9 @@ We aim to combine artificial intelligence with electric motors to solve some tou
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Plant-Physics-Guided Neural Network" style="rich" %}
+
+{% include citation.html lookup="Form Induced State-Drop Compensator" style="rich" %}
 
 {% include section.html %}
 

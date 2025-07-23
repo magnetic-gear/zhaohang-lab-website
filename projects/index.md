@@ -25,11 +25,6 @@ We not only conduct cutting-edge research, but also try to work closely with ind
 
 {% include section.html %}
 
-## Upcoming
-
-{% include list.html data="projects" component="card" filter="group == 'upcoming'" style="small" %}
-
-{% include section.html %}
 
 ## Past
 

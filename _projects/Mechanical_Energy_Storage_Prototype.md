@@ -1,0 +1,8 @@
+---
+title: Development of a Mechanical Energy Storage Prototype
+subtitle: Gravity energy storage
+permalink: /projects/Mechanical_Energy_Storage_Prototype/
+---
+Gravity energy storage is a form of mechanical energy storage that operates based on height differences, utilizing the raising and lowering of storage media to achieve the charge and discharge processes of the energy storage system. Compared to electrochemical energy storage, gravity energy storage offers several advantages: it is purely physical, highly safe, environmentally friendly, and has strong adaptability to different environments, allowing for flexible deployment. It also boasts a long cycle life, low cost, extended storage duration, and no self-discharge issues. Gravity energy storage has the potential to become the "ideal" energy storage method for new power systems, with significant research and development value and broad application prospects, while also stimulating the development of related products by equipment manufacturing enterprises.
+
+The basic process of energy storage and power generation in gravity energy storage projects involves using surplus power to lift heavy objects, thereby storing potential energy. When needed, this potential energy is released to drive generators for power generation. Apart from differences in the storage media, gravity energy storage can be categorized based on the form of power generation into mountain gravity energy storage, upper and lower chamber gravity energy storage, suspended gravity energy storage, piston gravity energy storage, and structural gravity energy storage. Additionally, new technological directions such as pumped compressed air storage are broadly considered part of gravity energy storage technology.

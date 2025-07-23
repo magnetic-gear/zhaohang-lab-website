@@ -1,7 +1,9 @@
 ---
-name: SU Xiangdong
+name: Xiangdong Su
+alias: Xiangdong
 image: images/SU Xiangdong.jpg
 role: PhD
+order: 2
 group: 2022 enrolled PhD
 links:
   # github: john-doe

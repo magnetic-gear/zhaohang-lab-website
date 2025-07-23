@@ -29,23 +29,45 @@ layout: default
 %}
 
 {% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
+{% assign aliases = page.aliases | default: page.name | default: page.title | join: "," | split: "," | array_filter %}
+
+{% capture search_papers -%}
+  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+{%- endcapture %}
+
+<div class="link-container" style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 600px; margin: 0 auto;">
+  <div class="link-item" style="width: 100%; text-align: center; margin-bottom: 25px;">
+    <a href="{{ search_papers | relative_url | uri_escape }}" style="display: block; text-decoration: underline;">
+      Search for {{ page.name | default: page.title }}'s papers on the Publications page
+    </a>
+  </div>
+
+ {% capture search -%}
+  news/?search={{ page.alias }}
+{%- endcapture %}
+
+  <div class="link-item" style="width: 100%; text-align: center;">
+    <a href="{{ search | relative_url | uri_escape }}" style="display: block; text-decoration: underline;">
+      See {{ page.name | default: page.title }}'s posts on the News page
+    </a>
+  </div>
+</div>
+
+<!-- <p class="center">
+  <a href="{{ search_papers | relative_url | uri_escape }}"> 
+    Search for {{ page.name | default: page.title }}'s papers on the Publications page
   </a>
 </p>
 
 {% capture search -%}
-  blog/?search={{ page.name }}
+  news/?search={{ page.alias }}
 {%- endcapture %}
 
-<!--
 <p class="center">
   <a href="{{ search | relative_url | uri_escape }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
+    See {{ page.name | default: page.title }}'s posts on the News page
   </a>
-</p>
--->
+</p> -->

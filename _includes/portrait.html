@@ -9,12 +9,12 @@
 
 {% assign type = site.data.types[member.role] %}
 
-<div class="portrait-wrapper">
+<div class="portrait-wrapper inline-block p-2">
   <a
     {% if page.slug != member.slug %}
       href="{{ member.url | relative_url | uri_escape }}"
     {% endif %}
-    class="portrait"
+    class="portrait block text-center"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" | regex_strip }}"
   >
@@ -24,26 +24,26 @@
 
     <img
       src="{{ member.image | relative_url | uri_escape }}"
-      class="portrait-image"
+      class="portrait-image mx-auto rounded-full h-32 w-32 object-cover"
       alt="member portrait"
       loading="lazy"
       {% include fallback.html %}
     >
 
     {% if member.name %}
-      <span class="portrait-name">
+      <span class="portrait-name block font-bold mt-2">
         {{ member.name }}
       </span>
     {% endif %}
 
     {% if member.description or type %}
-      <span class="portrait-description">
+      <span class="portrait-description block text-sm text-gray-600">
         {{ member.description | default: type.description }}
       </span>
     {% endif %}
 
     {% if member.affiliation %}
-      <span class="portrait-affiliation">
+      <span class="portrait-affiliation block text-xs text-gray-500">
         {{ member.affiliation }}
       </span>
     {% endif %}

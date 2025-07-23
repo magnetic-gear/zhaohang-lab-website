@@ -1,0 +1,12 @@
+---
+title: Research on the Clustered Utilization of Renewable Energies at Guangdong Offshore Considering Hydrogen Storage and Conversion
+subtitle: Power grid
+permalink: /projects/Clustered_Utilization_of_Renewable_Energies/
+---
+Guangdong Province, with its abundant offshore wind power resources, has become a key development area. However, it faces the challenge of grid integration policy changes where the grid no longer guarantees the purchase of electricity, leading to potential difficulties in absorbing wind power as a renewable energy source. To fully leverage the geographical advantages of offshore wind power, this study establishes an integrated land-sea energy system combining electric storage ships with a power-to-hydrogen system. 
+
+By analyzing the actual operational data from an offshore wind farm in Guangdong, we identified three typical power output curves (low, medium, high) corresponding to different stages of renewable energy development through clustering analysis. An optimization model was established to simulate the integrated land-sea system, defining three dimensions to describe the system's offshore wind power assimilation efficacy: the electro-hydrogen conversion index, wind power effective utilization rate, and the proportion of hydrogen and wind power costs. 
+
+Results for this projects are: 1) The low, medium, and high output scenarios are mainly distributed in summer, spring, and winter respectively, indicating a significant correlation between offshore wind power output and climate in Guangdong; 2) Under different scenarios, the constructed power-to-hydrogen coupling system can essentially achieve complete absorption of offshore wind power. In high-output and low-demand scenarios, the total system cost is approximately 71.7% of that in low-output and high-demand scenarios.; 3) The efficacy of the coupled system varies with different offshore wind power penetration rates and hydrogen system capacity configurations. When both the power-to-hydrogen configuration capacity and hydrogen storage tank capacity increase, the power-to-hydrogen conversion ratio and overall system efficacy significantly improve.
+
+With the continuous expansion of offshore wind power development, the configuration of hydrogen energy systems under different wind power penetration rates requires in-depth discussion to optimize the overall operational costs of the system.

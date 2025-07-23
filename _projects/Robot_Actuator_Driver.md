@@ -1,0 +1,8 @@
+---
+title: Development of a High-Power-Density Robot Actuator Driver Based on GaN Devices
+subtitle: Humanoid robot hardware
+permalink: /projects/Robot_Actuator_Driver/
+---
+The micro servo drive is a crucial component for electrical energy conversion, playing a vital role in the joint drive modules of humanoid robots. However, existing silicon-based device drivers suffer from low control frequencies and high switching losses, which subsequently lead to reduced endurance of humanoid robots. Moreover, current control algorithms struggle to cover the full operational range of humanoid robots, particularly during high-dynamic activities such as running and jumping, where mismatched electrical parameters can degrade control performance. Additionally, frequent impacts from robot movements can cause parts to loosen, resulting in joint end vibration, which affects balance and gait, thereby reducing motion precision.
+
+Therefore, this project aims to address the urgent demand for high efficiency, high dynamic performance, and high stability in humanoid robot joint drive modules. The goal is to enhance the robot's endurance and motion performance during prolonged operation, expand the capability boundaries of the robot, and improve the autonomous control capabilities of core components. This research focuses on three key technical areas: high-efficiency drive hardware, motor parameter self-identification and self-tuning, and low-speed dead zone compensation within the joint drive system.

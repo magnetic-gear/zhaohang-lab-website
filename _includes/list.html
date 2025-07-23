@@ -5,6 +5,16 @@
   | data_filter: include.filter
 %}
 
+<!-- 添加order排序支持 -->
+{% if include.sort_by == "order" %}
+  {% assign data = data | sort: "order" %}
+  
+  <!-- 支持倒序 -->
+  {% if include.reverse == true %}
+    {% assign data = data | reverse %}
+  {% endif %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"

@@ -5,13 +5,16 @@ description: Our lab focuses on the advanced motor drive technology, especially 
 header: images/back-ground.jpg
 footer: images/back-ground.jpg
 proofer: false
+url: "https://amdt.hkust-gz.edu.cn" 
 
 # site social media and other links
 links:
   email: hangzhao@hkust-gz.edu.cn
   orcid: 0000-0003-2451-3719
   google-scholar: AgCuXE8AAAAJ
-  HKUST:
+  research-gate: Hang-Zhao-64
+  home-page: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHAO-Hang/hangzhao
+  # HKUST:
   # github: magnetic-gear
   # twitter: magnetic-gear
   # youtube: magnetic-gear
@@ -35,6 +38,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_projects
+  - scope:
+      type: "projects"
+    values:
+      layout: projects
 
 collections:
   # generate page for each member
@@ -42,6 +50,8 @@ collections:
     output: true
   # generate page for each post
   posts:
+    output: true
+  projects:
     output: true
 
 # jekyll plugins

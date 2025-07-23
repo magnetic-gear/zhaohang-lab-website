@@ -1,7 +1,9 @@
 ---
-name: LUO Kun
+name: Kun Luo
+alias: Kun
 image: images/LUO Kun.jpg
 role: PhD
+order: 3
 group: 2023 enrolled PhD
 links:
   # github: john-doe

@@ -80,7 +80,7 @@ We welcome collaborations with other institutions and enterprises. If you are in
 {%
   include figure.html
   image="images/campus scenes/Activity center.jpg"
-  caption="Core area"
+  caption="Activity center"
 %}
 
 {% endcapture %}
@@ -100,7 +100,7 @@ We welcome collaborations with other institutions and enterprises. If you are in
 {%
   include figure.html
   image="images/campus scenes/Dormitory.jpg"
-  caption="Activity center"
+  caption="Dormitory"
 %}
 
 {% endcapture %}
@@ -110,7 +110,7 @@ We welcome collaborations with other institutions and enterprises. If you are in
 {%
   include figure.html
   image="images/campus scenes/Core area.jpg"
-  caption="Dormitory"
+  caption="Core area"
 %}
 
 {% endcapture %}

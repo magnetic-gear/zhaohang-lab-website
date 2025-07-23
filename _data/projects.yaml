@@ -1,29 +1,140 @@
-- title: Quantum Augmented Networks (QuaNET)
-  subtitle: DARPA
+- title: Multi-Temporal-Spatial-Scale Electromagnetic-Thermal Coupling Analytical Modeling and Multi-Fidelity Optimization of Permanent-Magnet Vernier Machines
+  subtitle: National Natural Science Foundation of China - Youth Fund
   group: current
-  image: images/icon.png
-  link: /projects/afosr/
-  description: Using squeezing and entangled photons in the physical layer for enhancing security, privacy and resilience of an optical communications network. 
+  image: images/project figures/Robot joint with vernier motor.jpg
+  link: /projects/Vernier_Motor_Analytical_Modeling/
+  description: Utilizing multi-physics analysis and surrogate-model optimization method to design high-performance vernier motors for humanoid robot actuators.
   tags:
     - government-sponsored-project
 
-- title: Photon-Efficient Nanoscale Optical Metrology (PHENOM)
-  subtitle: DARPA
-  group: upcoming
-  image: images/phenom.png
-  link: https://phoqus.us/projects/phenom
-  description: Generation of many-photon entangled states using atomic emitters that act as codes for photon loss but exhibit quantum-enhanced phase sensitivity.
+- title: Development of a High-Power-Density Robot Actuator Driver Based on GaN Devices
+  subtitle: National and Local Co-built Humaniod Robot Innovation Center - Open Fund
+  group: current
+  image: images/project figures/Robot GaN driver.jpg
+  link: /projects/Robot_Actuator_Driver/
+  description: Replacing silicon-based motor driver with GaN device and implementing neural-network-based algorithm for humanoid robot actuators to improve efficiency and robustness.
   tags:
     - industry-project
 
-- title: Optimizing Entanglement to attain Quantum Limit of Long-Baseline Imaging
-  subtitle: AFOSR
-  group: past
-  image: images/afosr.png
-  link: https://phoqus.us/projects/afosr-lb
-  description: Investigation of the use of distributed entanglement to enhance the performance of an array of passive and/or active sensors.
+- title: Scientist Robot for Perovskite Solar Cell Research
+  subtitle: HKUST(GZ) MCPF - AI Lab
+  group: current
+  image: images/project figures/AI lab.png
+  link: /projects/Scientist_Robot/
+  description: Constructing an automation system by utilizing data and expert knowledge-driven artificial intelligence algorithms to conduct closed-loop material design, process optimization, mechanism elucidation, and application research for perovskite solar cells.
   tags:
     - university-project
+
+- title: Integrated Optimization and Design of a Variable-Speed Pumped Storage Electric Machine and Converter System
+  subtitle: China Southern Power Grid
+  group: current
+  image: images/project figures/Pumped storage electric machine.png
+  link: /projects/Variable-Speed_Pumped_Storage_Electric_Machine/
+  description: Using machine learning algorithms to analyze and optimize the motor-inverter unit of pumped storage system, and providing data for the corresponding device-level twin simulation platform for maintenance purpose.
+  tags:
+    - industry-project
+
+- title: Development of a Mechanical Energy Storage Prototype
+  subtitle: China Energy Engineering Corporation Limited
+  group: past
+  image: images/project figures/Gravity storage prototype.png
+  link: /projects/Mechanical_Energy_Storage_Prototype/
+  description: Designing an advanced gravity storage system and the corresponding control strategy to utilize gravity of weights to store energy, and cooperating with the power grid to realize peak shaving effect.
+  tags:
+    - industry-project
+
+- title: Development of A Flux-Enhancing Dual-Mechanical-Port Electric Machine For Far-Sea Hybrid Unmanned Surface Vehicles
+  subtitle: Guangzhou of Bureau Education - Yangcheng Scholar Project
+  group: current
+  image: images/project figures/Dual rotor motor.jpg
+  link: /projects/Dual-Mechanical-Port_Electric_Machine/
+  description: Designing and optimizing a novel flux-enhancing dual-mechanical-port electric machine for the hybrid propulsion system of far-sea hybrid unmanned surface vehicles to increase its range, dynamic performance, and reliability.
+  tags:
+    - government-sponsored-project
+
+- title: Multi-physics Optimization and Control of Slot-Module Axial-Split-Phase Electric Machines for Electric Vehicle Application
+  subtitle: Guangdong Basic and Applied Basic Research Foundation - General Project
+  group: current
+  image: images/project figures/Slot module axial motor.jpg
+  link: /projects/Slot-Module_Axial-Split-Phase_Electric_Machine/
+  description: Proposing a novel slot-module axial-split-phase electric machine with a series-winding inverter with high power density, strong fault tolerance. The studied multi-physics analysis framework can be transferred to other applications.
+  tags:
+    - government-sponsored-project
+
+- title: Research on the Clustered Utilization of Renewable Energies at Guangdong Offshore Considering Hydrogen Storage and Conversion
+  subtitle: China Southern Power Grid
+  group: past
+  image: images/project figures/Offline renewable energies.png
+  link: /projects/Clustered_Utilization_of_Renewable_Energies/
+  description: Establishing an integrated land-sea energy system framework by combining electric storage ships with a power-to-hydrogen system, so the geographical advantages of offshore wind power can be fully leveraged.
+  tags:
+    - industry-project
+
+- title: Neural-Network-Based Overshoot-Inspired Servo Motor Control for Industrial Robots
+  subtitle: Guangdong Provincial Department of Education - Innovation Project
+  group: past
+  image: images/project figures/Industrial robot neural control.jpg
+  link: /projects/Neural-Network-Based_Servo_Motor_Control/
+  description: Developing a neural network speed stability compensation control method inspired by the motor overshoot problem to reduce speed overshoot issue during the dynamic response process of servo motors.
+  tags:
+    - government-sponsored-project  
+
+- title: Research on A Back-to-Back Consequent-Pole Axial-Flux Permanent Magnet Synchronous Motor for Legged Robot's Joint Drive Application
+  subtitle: Guangdong Basic and Applied Basic Research Foundation - Youth Project
+  group: current
+  image: images/project figures/Back-to-back motor.jpg
+  link: /projects/Back-to-Back_Robot_Motor/
+  description: Investigating a new topology scheme for back-to-back alternating pole axial permanent magnet synchronous motors for legged robot drives, providing a more compact, higher torque density solution.
+  tags:
+    - government-sponsored-project      
+
+- title: Development of A High-Torque-Density Double-Stator Vernier Machine System for Industrial Robots
+  subtitle: Guangzhou-HKUST(GZ) Joint Funding Project
+  group: past
+  image: images/project figures/Dual-rotor vernier motor.jpg
+  link: /projects/Double-stator_motor/
+  description: Developing a dual-stator vernier motor with the Halbach array arrangement of permanent magnets to significantly enhance torque density, and the proposed motor is suitable for heavy-duty industrial robot application. 
+  tags:
+    - government-sponsored-project      
+
+- title: Development of A Consequent-Pole Vernier Machine Servo System for Industrial Robot Application
+  subtitle: Guangzhou Municipal Science and Technology Project
+  group: past
+  image: images/project figures/Consequent-pole vernier motor.jpg
+  link: /projects/Consequent-Pole_Vernier_Machine/
+  description: Developing a high-precision composite analytical method that combines the Fourier series method and magnetic network method for solving electromagnetic parameters of the proposed consequent-pole permanent magnet vernier motors.
+  tags:
+    - government-sponsored-project      
+
+- title: Development of A Complex-Vector Resolver and Its Demodulation System
+  subtitle: Harbin Institute of Technology (Shenzhen)
+  group: current
+  image: images/project figures/Resolver for EV.png
+  link: /projects/Complex-Vector_Resolver/
+  description: Developing a novel reluctance resolve system based on the complex plane excitation mechanism, which can fudamentally eliminating the limitation on high-speed accuracy imposed by a single sinusoidal excitation signal in conventional rotary transformer demodulation systems.
+  tags:
+    - university-project
+
+- title: Development of New Low-Speed High-Torque Permanent Magnet Motors
+  subtitle: Direct Drive Tech Company
+  group: past
+  image: images/project figures/TITA robot motor.jpg
+  link: /projects/Low-Speed_High-Torque_PMSM/
+  description: Designing and manufacturing a low-speed high-torque direct-drive PMSM for wheeled robot application, the efficiency can be improved, noise reduced, and service life prolonged thanks to the elimination of reduction gearboxes.
+  tags:
+     - industry-project
+
+- title: Development of A High-Voltage (1200V) Powertrain System for eVTOL Aircraft Using Wide-Band-Gap Semiconductors
+  subtitle: Low Altitude Systems and Economy Research Institute
+  group: current
+  image: images/project figures/eVTOL.jpg
+  link: /projects/Development_of_a_Powertrain_System_for_eVTOL/
+  description: Inspired by the significant speed-drop curves observed in eVTOLs’ and UAVs' propulsion motors under strong wind disturbances, integrating machine learning into motor control and proposing an "anti-disturbance zero-speed-drop intelligent control algorithm".
+  tags:
+    - university-project
+
+
+
 
 
     

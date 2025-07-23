@@ -1,8 +1,10 @@
 ---
-name: FENG Ninghui
+name: Ninghui Feng
+alias: Ninghui
 image: images/FENG Ninghui.jpg
-role: RA
-group: Junior RA
+role: alumni
+order: 4
+group: alumni
 links:
   google-scholar: YpJ-U1sAAAAJ
   # github: john-doe

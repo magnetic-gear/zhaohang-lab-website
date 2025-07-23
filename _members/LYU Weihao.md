@@ -1,7 +1,9 @@
 ---
-name: LYU Weihao
+name: Weihao Lyu
+alias: Weihao
 image: images/LYU Weihao.jpg
 role: RA
+order: 5
 group: Senior RA
 links:
   # github: john-doe

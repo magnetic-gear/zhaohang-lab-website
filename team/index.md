@@ -15,26 +15,37 @@ Our team consists of students from electrical engineering, mechanical engineerin
 
 ## PhD Student
 
-{% include list.html data="members" component="portrait" filter="group == '2022 enrolled PhD'" %}
-{% include list.html data="members" component="portrait" filter="group == '2023 enrolled PhD'" %}
-{% include list.html data="members" component="portrait" filter="group == '2024 enrolled PhD'" %}
-{% include list.html data="members" component="portrait" filter="group == '2025 enrolled PhD'" %}
+<div class="flex flex-wrap gap-4">
+  {% include list.html data="members" component="portrait" filter="group == '2022 enrolled PhD'" sort_by="order" %}
+  {% include list.html data="members" component="portrait" filter="group == '2023 enrolled PhD'" sort_by="order" %}
+  {% include list.html data="members" component="portrait" filter="group == '2024 enrolled PhD'" sort_by="order" %}
+  {% include list.html data="members" component="portrait" filter="group == '2025 enrolled PhD'" sort_by="order" %}
+</div>
 
 ## MPhil Student
 
-{% include list.html data="members" component="portrait" filter="group == '2023 enrolled MPhil'" %}
-{% include list.html data="members" component="portrait" filter="group == '2024 enrolled MPhil'" %}
+<div class="flex flex-wrap gap-4">
+{% include list.html data="members" component="portrait" filter="group == '2023 enrolled MPhil'" sort_by="order" %}
+{% include list.html data="members" component="portrait" filter="group == '2024 enrolled MPhil'" sort_by="order" %}
+</div>
 
 ## Research Assistant
 
-{% include list.html data="members" component="portrait" filter="group == 'Senior RA'" %}
-{% include list.html data="members" component="portrait" filter="group == 'Junior RA'" %}
+<div class="flex flex-wrap gap-4">
+{% include list.html data="members" component="portrait" filter="group == 'Senior RA'" sort_by="order" %}
+{% include list.html data="members" component="portrait" filter="group == 'Junior RA'" sort_by="order" %}
+</div>
+
+## Visiting Student
+
+<div class="flex flex-wrap gap-4">
+{% include list.html data="members" component="portrait" filter="group == 'Visiting student'" sort_by="order" %}
+</div>
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" style="small" filter="group == 'alumni'" %}
+{% include list.html data="members" component="portrait" style="small" filter="group == 'alumni'" sort_by="order" %}
 
-<!-- {% include list.html data="members" component="portrait" filter="role == 'RA'" %} -->
 
 <!-- {% capture content %}
 

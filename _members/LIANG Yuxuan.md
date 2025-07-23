@@ -1,7 +1,9 @@
 ---
-name: LIANG Yuxuan
+name: Yuxuan Liang
+alias: Yuxuan
 image: images/LIANG Yuxuan.jpg
 role: PhD
+order: 1
 group: 2025 enrolled PhD
 links:
     website: https://www.zhihu.com/people/xing-chen-xiao-shen

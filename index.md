@@ -1,7 +1,7 @@
 ---
 ---
 
-# Advanced Motor Drive Technologies (AMDT) Website
+# <span style="color:rgb(27, 131, 179); font-size: 2rem;">Advanced Motor Drive Technologies (AMDT) Lab Website</span>
 
 Artificial Intelligence (AI) is catalyzing revolutionary transformations across various industries, altering research methodologies in numerous disciplines, with engineering no exception. Electric motors are one of the pillars of modern society, and they have wide applications in the areas of robotics, transportation electrification, etc. 
 
@@ -21,7 +21,7 @@ Electric motors are evolving towards more intricate structures with higher power
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -80,7 +80,7 @@ Electric motors are now widely used in robotics and autonomous systems, includin
 
 {%
   include feature.html
-  image="images/Self-made UAV.PNG"
+  image="images/Self-made UAV.png"
   link="team"
   title="Applications of electric motors in ROAS"
   text=text
